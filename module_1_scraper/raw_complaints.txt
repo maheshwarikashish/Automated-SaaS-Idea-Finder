@@ -1,0 +1,4 @@
+Fetching all the issues of a project using Jira APIs
+---
+Getting data from jira
+---
